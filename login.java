@@ -1,5 +1,5 @@
 package atm;
-
+// this is the actual login code
 import java.awt.BorderLayout;
 import java.sql.*;
 import javax.swing.*;
