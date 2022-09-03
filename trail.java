@@ -1,5 +1,5 @@
 package atm;
-
+// this code is trial code & it is not the part of atm executable code
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
